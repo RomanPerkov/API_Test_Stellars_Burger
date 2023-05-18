@@ -1,0 +1,1 @@
+{"success":true,"user":{"email":"virginia.mosciski@gmail.com","name":"Schroeder"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0NDI0YTlhOWVkMjgwMDAxYjMwY2M0NyIsImlhdCI6MTY4MjA2NjA3NCwiZXhwIjoxNjgyMDY3Mjc0fQ.mwzmdf-osg_hGLW0YnhRA4u8qZBwm2pVUOl2TDGDWRA","refreshToken":"2248d6802c6be92cc91edd1d3c290b50b592549cd7f5b463e85b732890a6367a1be84ebe10e53042"}

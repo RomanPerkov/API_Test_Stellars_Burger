@@ -1,0 +1,1 @@
+{"success":true,"user":{"email":"karie.hermann@yahoo.com","name":"Johnston"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0NDI0ZjcxOWVkMjgwMDAxYjMwY2M1ZCIsImlhdCI6MTY4MjA2NzMxMywiZXhwIjoxNjgyMDY4NTEzfQ.Y9r97PU8Q3T3VvlL0LvkL9X06skHChC36LS-0z6mpE4","refreshToken":"7002a9de40588dd46d458d135a18825f409ab67f04f1b800955e051599e8aaefafd0303d1b2a19d6"}

@@ -1,0 +1,1 @@
+{"success":true,"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0NDI2NDFlOWVkMjgwMDAxYjMwY2M3YyIsImlhdCI6MTY4MjA3MjYwOSwiZXhwIjoxNjgyMDczODA5fQ.BfHkbqcPvIx4A_6FpTpJo9CuCqgwFDIyNzmFbihWaAE","refreshToken":"7079401fbabc18d99ebc06eec79723dab7bcc7b554df99cfbe010f31f8f327e5ffd8f6989ec7e4e7","user":{"email":"devon.kuhic@hotmail.com","name":"Lynch"}}

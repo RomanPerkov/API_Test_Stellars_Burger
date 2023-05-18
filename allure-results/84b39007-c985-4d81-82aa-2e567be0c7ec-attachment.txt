@@ -1,0 +1,1 @@
+{"success":true,"user":{"email":"rosalba.collins@yahoo.com","name":"Conn"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0NDI0OTQ2OWVkMjgwMDAxYjMwY2MzOCIsImlhdCI6MTY4MjA2NTczNCwiZXhwIjoxNjgyMDY2OTM0fQ.71BYmuTBaHi3j7nUZypERqn96zz2Fob99wsA0rCrTuw","refreshToken":"28616bb0a05a499c0b6bcf59104ff09f62853f37e8e6183d8e2539445f7378560f411c112774ade2"}

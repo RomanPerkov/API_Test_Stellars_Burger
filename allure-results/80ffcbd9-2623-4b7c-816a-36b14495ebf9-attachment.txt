@@ -1,0 +1,4 @@
+1 expectation failed.
+JSON path message doesn't match.
+Expected: Этот логин уже используется. Попробуйте другой.
+  Actual: User already exists

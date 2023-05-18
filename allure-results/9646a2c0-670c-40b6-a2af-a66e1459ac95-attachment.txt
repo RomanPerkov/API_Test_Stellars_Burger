@@ -1,0 +1,1 @@
+{"success":true,"user":{"email":"claudio.hintz@hotmail.com","name":"Breitenberg"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0NDI0ZmMzOWVkMjgwMDAxYjMwY2M2MiIsImlhdCI6MTY4MjA2NzM5NSwiZXhwIjoxNjgyMDY4NTk1fQ.ZTjt3JECC6uUB5F5ePzR0Lt5ky1IvKGsXz0dAOuv7Mw","refreshToken":"58531c40179b76b0a307589b510ef560d314109c86b0f7e24424a3c434d8eb656bc6f23293aed6df"}

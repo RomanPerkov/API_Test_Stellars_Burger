@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: CreateUserTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 99.406 s <<< FAILURE! - in CreateUserTest
+createCourierNoPasswordTest(CreateUserTest)  Time elapsed: 96.611 s  <<< ERROR!
+java.net.UnknownHostException: Р­С‚РѕС‚ С…РѕСЃС‚ РЅРµРёР·РІРµСЃС‚РµРЅ (stellarburgers.nomoreparties.site)
+	at CreateUserTest.createCourierNoPasswordTest(CreateUserTest.java:36)
+
+createCourierNoPasswordTest(CreateUserTest)  Time elapsed: 96.611 s  <<< ERROR!
+java.net.UnknownHostException: stellarburgers.nomoreparties.site
+

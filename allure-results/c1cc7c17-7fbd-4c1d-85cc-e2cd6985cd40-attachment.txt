@@ -1,0 +1,1 @@
+{"success":true,"user":{"email":"bruna.deckow@hotmail.com","name":"Keebler"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0NDI0YjVlOWVkMjgwMDAxYjMwY2M1MCIsImlhdCI6MTY4MjA2NjI3MCwiZXhwIjoxNjgyMDY3NDcwfQ.bGazR4NatCikCUKg27MQ62pnc4IWRYadp-D12tmMhs8","refreshToken":"92234c92e7a5747b4dcc45959c38fe3f1fb54a8da72b9d288ca0118288028f085290f27adf33c3c6"}

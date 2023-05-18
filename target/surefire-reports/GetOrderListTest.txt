@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: GetOrderListTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 6, Skipped: 0, Time elapsed: 0.203 s <<< FAILURE! - in GetOrderListTest
+getNoLoginOrderTest(GetOrderListTest)  Time elapsed: 0.129 s  <<< ERROR!
+java.net.UnknownHostException: stellarburgers.nomoreparties.site
+
+getNoLoginOrderTest(GetOrderListTest)  Time elapsed: 0.129 s  <<< ERROR!
+java.net.UnknownHostException: stellarburgers.nomoreparties.site
+
+getLoginOrderWrongTokenTest(GetOrderListTest)  Time elapsed: 0.027 s  <<< ERROR!
+java.net.UnknownHostException: stellarburgers.nomoreparties.site
+
+getLoginOrderWrongTokenTest(GetOrderListTest)  Time elapsed: 0.027 s  <<< ERROR!
+java.net.UnknownHostException: stellarburgers.nomoreparties.site
+
+getLoginOrderTest(GetOrderListTest)  Time elapsed: 0.038 s  <<< ERROR!
+java.net.UnknownHostException: stellarburgers.nomoreparties.site
+
+getLoginOrderTest(GetOrderListTest)  Time elapsed: 0.038 s  <<< ERROR!
+java.net.UnknownHostException: stellarburgers.nomoreparties.site
+
