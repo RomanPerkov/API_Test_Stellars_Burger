@@ -1,1 +1,0 @@
-{"success":true,"user":{"email":"caren.daniel@yahoo.com","name":"Haley"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0NDI0YWQ0OWVkMjgwMDAxYjMwY2M0YSIsImlhdCI6MTY4MjA2NjEzMiwiZXhwIjoxNjgyMDY3MzMyfQ.0-5_OUWSi_DFKDO2_N9HZv-fVYgf3g_c28a0tF-567o","refreshToken":"1a4bc7a74a6311cf8065074d949599450fb510f6e39bebbadf36045b79466d2a9906460ba8c2d5b2"}

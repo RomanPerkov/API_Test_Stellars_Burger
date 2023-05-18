@@ -1,1 +1,0 @@
-{"success":true,"user":{"email":"cristina.herzog@yahoo.com","name":"Mills"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0NDI0YjBiOWVkMjgwMDAxYjMwY2M0ZCIsImlhdCI6MTY4MjA2NjE4NywiZXhwIjoxNjgyMDY3Mzg3fQ.yK18BU_6ddDF37zX1HjdKkL5fDvsbM9PR8Zv-zbC_Tc","refreshToken":"cfd658f14f02a25dddd9222091076093aa4c215df86088cadef7ad213da8fd7b8e2b8aefa843c810"}
